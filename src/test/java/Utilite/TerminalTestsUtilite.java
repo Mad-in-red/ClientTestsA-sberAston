@@ -1,6 +1,7 @@
-package api;
+package Utilite;
 
 import io.restassured.path.json.JsonPath;
+import api.models.InfoService.TerminalsData;
 
 import java.util.ArrayList;
 import java.util.List;

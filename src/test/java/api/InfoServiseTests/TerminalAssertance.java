@@ -1,6 +1,7 @@
-package api;
+package api.InfoServiseTests;
 
 import io.restassured.path.json.JsonPath;
+import api.models.InfoService.TerminalsData;
 
 import java.util.List;
 

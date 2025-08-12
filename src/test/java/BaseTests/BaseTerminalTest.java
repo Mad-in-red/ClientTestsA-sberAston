@@ -1,6 +1,8 @@
-package api;
+package BaseTests;
 
+import api.InfoServiseTests.InfoServiceSpecifications;
 import io.restassured.response.Response;
+import api.models.InfoService.TerminalsData;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.params.provider.Arguments;
 

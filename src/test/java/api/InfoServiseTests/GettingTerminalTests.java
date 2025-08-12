@@ -1,6 +1,10 @@
-package api;
+package api.InfoServiseTests;
 
+import BaseTests.BaseTerminalTest;
+import Utilite.TerminalTestsUtilite;
 import io.restassured.path.json.JsonPath;
+import api.models.InfoService.TerminalSearchRequest;
+import api.models.InfoService.TerminalsData;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.MethodSource;

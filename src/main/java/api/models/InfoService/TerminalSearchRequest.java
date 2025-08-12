@@ -1,4 +1,4 @@
-package api;
+package api.models.InfoService;
 
 public class TerminalSearchRequest {
     private String city;

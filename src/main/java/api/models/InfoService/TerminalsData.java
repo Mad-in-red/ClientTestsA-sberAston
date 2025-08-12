@@ -1,4 +1,4 @@
-package api;
+package api.models.InfoService;
 
 public class TerminalsData {
     private String id;
